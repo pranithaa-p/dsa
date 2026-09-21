@@ -8,13 +8,12 @@
 8            }
 9            
 10            maxReach = Math.max(maxReach, i + nums[i]);
-11            
-12            if (maxReach >= nums.length - 1) {
-13                return true;
-14            }
-15        }
-16        
-17        return true;
-18    }
-19}
-20
+11            if (maxReach >= nums.length - 1) {
+12                return true;
+13            }
+14        }
+15        
+16        return true;
+17    }
+18}
+19
