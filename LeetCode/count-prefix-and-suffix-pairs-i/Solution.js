@@ -1,0 +1,8 @@
+["a"]
+["ac","abc"]
+["abc","aba"]
+["abc","abcba","abccba","cbabc","cbaabc","cbacba","abc","abcabc"]
+["sds","s","d","s","td","tt","dd","tt","sd","sdd","ts","s","d","d"]
+["mmm","smmm","hmmm","hs","s","h","s","h","hhmm","smm","hhh","shh","sh","smmm"]
+["a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a"]
+["aa","aaa","aaaa","aaaaa","aaaaaa","a","aa","aaa","aaaa","aaaaa","a","aa","aaa","aaaa","aaaaa","a","aa","aaa","aaaa","aaaaa","a","aa","aaa","aaaa","aaaaa","a","aa","aaa","aaaa","aaaaa","a","aa","aaa","aaaa","aaaaa","a","aa","aaa","aaaa","aaaaa","a","aa","aaa","aaaa","aaaaa","a","aa","aaa","aaaa","aaaaa"]
