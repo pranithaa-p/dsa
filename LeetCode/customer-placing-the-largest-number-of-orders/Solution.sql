@@ -1,4 +1,4 @@
 1# Write your MySQL query statement below
-2SELECT customer_number FROM Orders 
-3GROUP BY customer_number ORDER BY count(*) DESC
-4LIMIT 1;
+2select customer_number from Orders
+3group by customer_number order by count(order_number) desc
+4limit 1;
